@@ -8,8 +8,11 @@
 ### Algumas ferramentas que podem ser úteis:
 
 https://playcode.io/
+
 https://codepen.io/
+
 https://glitch.com/
+
 ---
 
 ## 01 - Introdução à lógica de programação
